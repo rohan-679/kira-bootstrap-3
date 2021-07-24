@@ -224,7 +224,7 @@ body{
 }
 #text-div1{
     /* border: 2px solid red; */
-    margin-top: 80px;
+    margin-top: 120px;
 }
 #text-div1 h1{
     /* border: 2px solid red; */
@@ -247,7 +247,7 @@ body{
 }
 #text-div2{
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
     /* border: 2px solid red; */
 }
 #text-div2 p{
